@@ -42,7 +42,7 @@ class _HomeState extends State<Home> {
                        'time' : result['time'],
                        'location' : result['location'],
                        'isDayTime' : result['isDayTime'],
-                       //'flag' : result['flag'],
+                       'flag' : result['flag'],
                      };
                    });
 
